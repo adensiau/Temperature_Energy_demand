@@ -1,4 +1,4 @@
-#☁️ Energy Demand and Weather Analysis
+# ☁️ Energy Demand and Weather Analysis
 
 **📌 Description:**
 This project investigates the relationship between electricity demand and weather patterns, particularly temperature fluctuations, using data from the Australian Energy Market Operator and the Bureau of Meteorology.
